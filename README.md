@@ -13,7 +13,7 @@
 
 4. Define labels variable
 * Open define_constants.py file.
- - In labels dictionary, define the names of labels(person) with key as the label, and value as the name
+  - In labels dictionary, define the names of labels(person) with key as the label, and value as the name
 
 5. Detect faces
 * Run detect_faces_for_test_img.py.
