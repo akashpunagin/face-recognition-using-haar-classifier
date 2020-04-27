@@ -18,7 +18,7 @@
 5. Detect faces
 * Run detect_faces_for_test_img.py.
   - It will only 'detect' the face(s), in the 'test_img'
-	- You can also store other images in test_imgs directory and detect faces off of that image
+  - You can also store other images in test_imgs directory and detect faces off of that image
 
 6. Training the model
 * Run train_model.py file.
