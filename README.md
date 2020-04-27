@@ -33,4 +33,4 @@
 * Run predict_for_video.py
 	- It will predict the person, also detect face, and eyes
 	- It will also show a message if eyes are closed (or not detected)
-	- Press q to exit
+	- Press q to exit.  **Dont close the window as it will freze the terminal, (or command prompt)**
